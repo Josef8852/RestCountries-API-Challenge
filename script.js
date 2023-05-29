@@ -221,7 +221,6 @@ getData().then((data) => {
 data.forEach((element) => {
   if(element.name.common === clickedName) {
     getFullDetails(element) ; 
-    console.log(element);
   }
 
 }) ; 
