@@ -2,7 +2,7 @@
 Rest Countries API Challenge from Frontendmentor
 
 
-## Live Demo :
+## Live Demo : https://josef8852.github.io/RestCountries-API-Challenge/
 
 ### Features 🛠 :
 - See all countries from the API on the homepage
